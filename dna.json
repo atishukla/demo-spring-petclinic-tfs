@@ -1,0 +1,4 @@
+{
+	"run_list": [ "spring-petclinic-new-app-deploy[default]" ]
+	
+}
